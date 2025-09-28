@@ -1,0 +1,2 @@
+In this article we will explore Python File Handling, Advantages, Disadvantages and How open, 
+write and append functions works in python file.

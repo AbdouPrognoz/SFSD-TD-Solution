@@ -1,0 +1,1 @@
+Represent the schematic of a single module, giving all the connection details with the address bus, the data bus and the command bus.

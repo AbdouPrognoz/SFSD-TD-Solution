@@ -1,0 +1,5 @@
+To handle the case where the characters differ and you want to keep concatenating them until 
+the characters are equal again, I've modified the program to keep track of the mismatched 
+characters in a buffer. The program will display   the accumulated differences when the 
+characters finally match again.
+
